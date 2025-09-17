@@ -1,4 +1,3 @@
-
 def fatorial_recursivo(n):
   
     if n < 0:
@@ -17,3 +16,4 @@ numero = 0
 resultado = fatorial_recursivo(numero)
 
 print(f"O fatorial de {numero} é {resultado}")
+
