@@ -1,0 +1,10 @@
+a. Algoritmos Matemáticos:
+i. Números Primos até N
+ii. Fatorial de N
+iii. Multiplicação de Matrizes
+
+b. Ordenação de listas (mais de 1000 inteiros)
+
+c. Busca em lista ordenada
+
+d. Cálculo do PI
