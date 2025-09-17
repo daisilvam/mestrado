@@ -1,4 +1,3 @@
-
 def busca_binaria(lista, elemento):
    
     inicio = 0
@@ -27,3 +26,4 @@ if indice_encontrado is not None:
 else:
 
     print(f"O elemento {elemento_procurado} não foi encontrado na lista.")
+
